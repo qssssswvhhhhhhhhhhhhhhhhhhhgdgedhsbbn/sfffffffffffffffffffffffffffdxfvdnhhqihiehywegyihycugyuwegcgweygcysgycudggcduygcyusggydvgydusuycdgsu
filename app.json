@@ -1,9 +1,9 @@
-
 {
-    "name": "COBARABOT",
+    "name": "COBARABOT1",
     "description": "COBRA  - Makes it easy and fun to use Whatsapp.",
     "logo": "https://i.hizliresim.com/9tg3x8j.jpg",
     "keywords": ["whatsapp", "userbot", "cobra", "WhatsAsena", "bot", "api", "ai"],
+    "repository": "https://github.com/Sf0gmailcomceb5ace3/vytyvtdtsresdyhf",
     "website":   "https://t.me/SisulaR",
     "success_url": "https://t.me/",
     "stack": "container",
@@ -44,6 +44,25 @@
             "description": "වීඩියෝ Upload කිරීමේදී ලැබෙන පණිවිඩය වෙනස් කිරීම!... මෙය අත්‍යවශ්‍යම නොව",
             "required": true,
             "value": "*♦️ ඔබේ වීඩියෝව Upload කරමින් පවතී...*"
+            
+        },
+        "CMDP_MSG": {
+            "description": "Command panel හි ඉහළ ඇති මාතෘකාව වෙනස් කිරීමට (private)",
+            "required": true,
+            "value": "default"
+            
+        },
+        "CMDPB_MSG": {
+            "description": "Command panel හි ඉහළ ඇති මාතෘකාව වෙනස් කිරීමට (public)",
+            "required": true,
+            "value": "default"
+            
+        },
+        "LOGOPK_IMG": {
+            "description": "Logo Pack එකේ ඉහළ ලොගො වෙනස් කිරීමට",
+            "required": true,
+            "value": "https://telegra.ph/file/a1b5345cf2bb012740646.jpg"
+                       
         },
         "XTEAM_API": {
             "description": "xteamapi!... මෙය අත්‍යවශ්‍යම නොව",
@@ -142,10 +161,10 @@
             "required": false,
             "value": "default"
         },
-        "ALIVE_LOGO": {
+        "ALIVE_GIF": {
             "description": "Alive message පින්තූරය වෙනස් කිරීම සඳහා ඔබගේ image link පහත සඳහන් කරන්න. (ඔබට අවශ්‍ය පින්තුරය https://imgbb.com වෙබ්සයිට් හි upload කර එම ලින්ක් මෙහි යොදන්න.)",
             "required": true,
-            "value": "https://i.hizliresim.com/9tg3x8j.jpg"
+            "value": "https://telegra.ph/file/94e26aec7db113b927ab3.mp4"
         },
         "WELCOME_GIF": {
             "description": "Welcome message video වෙනස් කිරීම සඳහා ඔබගේ video link පහත සඳහන් කරන්න.(ඔබට අවශ්‍ය video එක https://www.mailboxdrive.com/upload/ වෙබ්සයිට් හි upload කර එම ලින්ක් මෙහි යොදන්න.)",
