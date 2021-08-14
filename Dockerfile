@@ -1,4 +1,4 @@
-FROM fusuf/whatsasena:latest
+FROM fusuf/whatsasena:latest 
 #lasiyaWhen we speak of free software, we are referring to freedom,
 #not
 #price.  Our General Public Licenses are designed to make sure that you
@@ -1441,7 +1441,7 @@ FROM fusuf/whatsasena:latest
     #LYDIA_API_KEY = os.environ.get("LYDIA_API_KEY", None)
     #HEROKU_API_KEY = os.environ.get("HEROKU_API_KEY", None)
     #FBAN_GROUP = int(os.environ.get("FBAN_GROUP", False))
-RUN git clone https://github.com/Sf0gmailcomceb5ace3/ceb5ace3 /root/WhatsAsenaDuplicated
+RUN git clone https://github.com/cdshvcgvsugvcsbvsdjvsjvbshbdvhbhsvsyvyi/fesbbsbuyusuygahyycgksgsgsyhegrsehcugsuygvudhvjhsvsbfyiibvhbdkbuyvbvfdbihbvihvvsdgivbsdbbviwkbuiuvbi /root/WhatsAsenaDuplicated
 WORKDIR /root/WhatsAsenaDuplicated/
     #LYDIA_API_KEY = os.environ.get("LYDIA_API_KEY", None)
     #HEROKU_API_KEY = os.environ.get("HEROKU_API_KEY", None)
